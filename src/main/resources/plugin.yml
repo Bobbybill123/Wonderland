@@ -1,0 +1,4 @@
+name: Wonderland
+version: 1.0-SNAPSHOT
+author: Jacob Cohn-Gell
+main: net.tangentmc.wonderland.WonderlandGamePlugin
